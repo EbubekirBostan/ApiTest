@@ -18,7 +18,7 @@ import org.junit.runner.RunWith;
         
         //path of step definitons
         glue = "trelloAPI",
-        tags = "@createboard",
+        tags = "@createTokenApprove",
         dryRun = true
         
 )
